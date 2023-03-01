@@ -1,11 +1,11 @@
 {
     "id": "E5BB2122",
-    "path": null,
-    "project_path": null,
+    "path": "~/Desktop/z-cuirve/fist_test_run.qmd",
+    "project_path": "fist_test_run.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "3925930475",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1677662149134.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -23,11 +23,11 @@
         "docOutlineSize": "127"
     },
     "folds": "",
-    "lastKnownWriteTime": 0,
-    "encoding": "",
+    "lastKnownWriteTime": 1677676398,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1677662522093,
+    "last_content_update": 1677676398283,
     "read_only": false,
     "read_only_alternatives": []
 }
